@@ -1,2 +1,2 @@
 # notion_finance
-Automate Notion with Financial planner
+Automate Notion with a Python Financial Planner
