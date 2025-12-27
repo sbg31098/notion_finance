@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import altair as alt
-from expenses import Expenses
+from expense_aggregator.expenses import Expenses
 import matplotlib.pyplot as plt
 
 plt.style.use("dark_background")
